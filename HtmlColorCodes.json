@@ -1,0 +1,842 @@
+[
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "Aqua",
+   "hex_code_rgb": "#00FFFF",
+   "decimal_code_rgb": "0,255,255"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "Cyan",
+   "hex_code_rgb": "#00FFFF",
+   "decimal_code_rgb": "0,255,255"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Fuchsia",
+   "hex_code_rgb": "#FF00FF",
+   "decimal_code_rgb": "255,0,255"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Magenta",
+   "hex_code_rgb": "#FF00FF",
+   "decimal_code_rgb": "255,0,255"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "MediumVioletRed",
+   "hex_code_rgb": "#C71585",
+   "decimal_code_rgb": "199,21,133"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "DeepPink",
+   "hex_code_rgb": "#FF1493",
+   "decimal_code_rgb": "255,20,147"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "PaleVioletRed",
+   "hex_code_rgb": "#DB7093",
+   "decimal_code_rgb": "219,112,147"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "HotPink",
+   "hex_code_rgb": "#FF69B4",
+   "decimal_code_rgb": "255,105,180"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "LightPink",
+   "hex_code_rgb": "#FFB6C1",
+   "decimal_code_rgb": "255,182,193"
+ },
+ {
+   "main_color": "Pink Colors",
+   "html_css_color_name": "Pink",
+   "hex_code_rgb": "#FFC0CB",
+   "decimal_code_rgb": "255,192,203"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "DarkRed",
+   "hex_code_rgb": "#8B0000",
+   "decimal_code_rgb": "139,0,0"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "Red",
+   "hex_code_rgb": "#FF0000",
+   "decimal_code_rgb": "255,0,0"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "Firebrick",
+   "hex_code_rgb": "#B22222",
+   "decimal_code_rgb": "178,34,34"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "Crimson",
+   "hex_code_rgb": "#DC143C",
+   "decimal_code_rgb": "220,20,60"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "IndianRed",
+   "hex_code_rgb": "#CD5C5C",
+   "decimal_code_rgb": "205,92,92"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "LightCoral",
+   "hex_code_rgb": "#F08080",
+   "decimal_code_rgb": "240,128,128"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "Salmon",
+   "hex_code_rgb": "#FA8072",
+   "decimal_code_rgb": "250,128,114"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "DarkSalmon",
+   "hex_code_rgb": "#E9967A",
+   "decimal_code_rgb": "233,150,122"
+ },
+ {
+   "main_color": "Red Colors",
+   "html_css_color_name": "LightSalmon",
+   "hex_code_rgb": "#FFA07A",
+   "decimal_code_rgb": "255,160,122"
+ },
+ {
+   "main_color": "Orange Colors",
+   "html_css_color_name": "OrangeRed",
+   "hex_code_rgb": "#FF4500",
+   "decimal_code_rgb": "255,69,0"
+ },
+ {
+   "main_color": "Orange Colors",
+   "html_css_color_name": "Tomato",
+   "hex_code_rgb": "#FF6347",
+   "decimal_code_rgb": "255,99,71"
+ },
+ {
+   "main_color": "Orange Colors",
+   "html_css_color_name": "DarkOrange",
+   "hex_code_rgb": "#FF8C00",
+   "decimal_code_rgb": "255,140,0"
+ },
+ {
+   "main_color": "Orange Colors",
+   "html_css_color_name": "Coral",
+   "hex_code_rgb": "#FF7F50",
+   "decimal_code_rgb": "255,127,80"
+ },
+ {
+   "main_color": "Orange Colors",
+   "html_css_color_name": "Orange",
+   "hex_code_rgb": "#FFA500",
+   "decimal_code_rgb": "255,165,0"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "DarkKhaki",
+   "hex_code_rgb": "#BDB76B",
+   "decimal_code_rgb": "189,183,107"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "Gold",
+   "hex_code_rgb": "#FFD700",
+   "decimal_code_rgb": "255,215,0"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "Khaki",
+   "hex_code_rgb": "#F0E68C",
+   "decimal_code_rgb": "240,230,140"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "PeachPuff",
+   "hex_code_rgb": "#FFDAB9",
+   "decimal_code_rgb": "255,218,185"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "Yellow",
+   "hex_code_rgb": "#FFFF00",
+   "decimal_code_rgb": "255,255,0"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "PaleGoldenrod",
+   "hex_code_rgb": "#EEE8AA",
+   "decimal_code_rgb": "238,232,170"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "Moccasin",
+   "hex_code_rgb": "#FFE4B5",
+   "decimal_code_rgb": "255,228,181"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "PapayaWhip",
+   "hex_code_rgb": "#FFEFD5",
+   "decimal_code_rgb": "255,239,213"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "LightGoldenrodYellow",
+   "hex_code_rgb": "#FAFAD2",
+   "decimal_code_rgb": "250,250,210"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "LemonChiffon",
+   "hex_code_rgb": "#FFFACD",
+   "decimal_code_rgb": "255,250,205"
+ },
+ {
+   "main_color": "Yellow Colors",
+   "html_css_color_name": "LightYellow",
+   "hex_code_rgb": "#FFFFE0",
+   "decimal_code_rgb": "255,255,224"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Maroon",
+   "hex_code_rgb": "#800000",
+   "decimal_code_rgb": "128,0,0"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Brown",
+   "hex_code_rgb": "#A52A2A",
+   "decimal_code_rgb": "165,42,42"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "SaddleBrown",
+   "hex_code_rgb": "#8B4513",
+   "decimal_code_rgb": "139,69,19"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Sienna",
+   "hex_code_rgb": "#A0522D",
+   "decimal_code_rgb": "160,82,45"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Chocolate",
+   "hex_code_rgb": "#D2691E",
+   "decimal_code_rgb": "210,105,30"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "DarkGoldenrod",
+   "hex_code_rgb": "#B8860B",
+   "decimal_code_rgb": "184,134,11"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Peru",
+   "hex_code_rgb": "#CD853F",
+   "decimal_code_rgb": "205,133,63"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "RosyBrown",
+   "hex_code_rgb": "#BC8F8F",
+   "decimal_code_rgb": "188,143,143"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Goldenrod",
+   "hex_code_rgb": "#DAA520",
+   "decimal_code_rgb": "218,165,32"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "SandyBrown",
+   "hex_code_rgb": "#F4A460",
+   "decimal_code_rgb": "244,164,962"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Tan",
+   "hex_code_rgb": "#D2B48C",
+   "decimal_code_rgb": "210,180,140"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Burlywood",
+   "hex_code_rgb": "#DEB887",
+   "decimal_code_rgb": "222,184,135"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Wheat",
+   "hex_code_rgb": "#F5DEB3",
+   "decimal_code_rgb": "245,222,179"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "NavajoWhite",
+   "hex_code_rgb": "#FFDEAD",
+   "decimal_code_rgb": "255,222,173"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Bisque",
+   "hex_code_rgb": "#FFE4C4",
+   "decimal_code_rgb": "255,228,196"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "BlanchedAlmond",
+   "hex_code_rgb": "#FFEBCD",
+   "decimal_code_rgb": "255,235,205"
+ },
+ {
+   "main_color": "Brown Colors",
+   "html_css_color_name": "Cornsilk",
+   "hex_code_rgb": "#FFF8DC",
+   "decimal_code_rgb": "255,248,220"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "DarkGreen",
+   "hex_code_rgb": "#006400",
+   "decimal_code_rgb": "0,100,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "Green",
+   "hex_code_rgb": "#008000",
+   "decimal_code_rgb": "0,128,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "DarkOliveGreen",
+   "hex_code_rgb": "#556B2F",
+   "decimal_code_rgb": "85,107,47"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "ForestGreen",
+   "hex_code_rgb": "#228B22",
+   "decimal_code_rgb": "34,139,34"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "SeaGreen",
+   "hex_code_rgb": "#2E8B57",
+   "decimal_code_rgb": "46,139,87"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "Olive",
+   "hex_code_rgb": "#808000",
+   "decimal_code_rgb": "128,128,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "OliveDrab",
+   "hex_code_rgb": "#6B8E23",
+   "decimal_code_rgb": "107,142,35"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "MediumSeaGreen",
+   "hex_code_rgb": "#3CB371",
+   "decimal_code_rgb": "60,179,113"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "LimeGreen",
+   "hex_code_rgb": "#32CD32",
+   "decimal_code_rgb": "50,205,50"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "Lime",
+   "hex_code_rgb": "#00FF00",
+   "decimal_code_rgb": "0,255,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "SpringGreen",
+   "hex_code_rgb": "#00FF7F",
+   "decimal_code_rgb": "0,255,127"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "MediumSpringGreen",
+   "hex_code_rgb": "#00FA9A",
+   "decimal_code_rgb": "0,250,154"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "DarkSeaGreen",
+   "hex_code_rgb": "#8FBC8F",
+   "decimal_code_rgb": "143,188,143"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "MediumAquamarine",
+   "hex_code_rgb": "#66CDAA",
+   "decimal_code_rgb": "102,205,170"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "YellowGreen",
+   "hex_code_rgb": "#9ACD32",
+   "decimal_code_rgb": "154,205,50"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "LawnGreen",
+   "hex_code_rgb": "#7CFC00",
+   "decimal_code_rgb": "124,252,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "Chartreuse",
+   "hex_code_rgb": "#7FFF00",
+   "decimal_code_rgb": "127,255,0"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "LightGreen",
+   "hex_code_rgb": "#90EE90",
+   "decimal_code_rgb": "144,238,144"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "GreenYellow",
+   "hex_code_rgb": "#ADFF2F",
+   "decimal_code_rgb": "173,255,47"
+ },
+ {
+   "main_color": "Green Colors",
+   "html_css_color_name": "PaleGreen",
+   "hex_code_rgb": "#98FB98",
+   "decimal_code_rgb": "152,251,152"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "Teal",
+   "hex_code_rgb": "#008080",
+   "decimal_code_rgb": "0,128,128"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "DarkCyan",
+   "hex_code_rgb": "#008B8B",
+   "decimal_code_rgb": "0,139,139"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "LightSeaGreen",
+   "hex_code_rgb": "#20B2AA",
+   "decimal_code_rgb": "32,178,170"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "CadetBlue",
+   "hex_code_rgb": "#5F9EA0",
+   "decimal_code_rgb": "95,158,160"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "DarkTurquoise",
+   "hex_code_rgb": "#00CED1",
+   "decimal_code_rgb": "0,206,209"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "MediumTurquoise",
+   "hex_code_rgb": "#48D1CC",
+   "decimal_code_rgb": "72,209,204"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "Turquoise",
+   "hex_code_rgb": "#40E0D0",
+   "decimal_code_rgb": "64,224,208"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "Aquamarine",
+   "hex_code_rgb": "#7FFFD4",
+   "decimal_code_rgb": "127,255,212"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "PaleTurquoise",
+   "hex_code_rgb": "#AFEEEE",
+   "decimal_code_rgb": "175,238,238"
+ },
+ {
+   "main_color": "Cyan Colors",
+   "html_css_color_name": "LightCyan",
+   "hex_code_rgb": "#E0FFFF",
+   "decimal_code_rgb": "224,255,255"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "Navy",
+   "hex_code_rgb": "#000080",
+   "decimal_code_rgb": "0,0,128"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "DarkBlue",
+   "hex_code_rgb": "#00008B",
+   "decimal_code_rgb": "0,0,139"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "MediumBlue",
+   "hex_code_rgb": "#0000CD",
+   "decimal_code_rgb": "0,0,205"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "Blue",
+   "hex_code_rgb": "#0000FF",
+   "decimal_code_rgb": "0,0,255"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "MidnightBlue",
+   "hex_code_rgb": "#191970",
+   "decimal_code_rgb": "25,25,112"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "RoyalBlue",
+   "hex_code_rgb": "#4169E1",
+   "decimal_code_rgb": "65,105,225"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "SteelBlue",
+   "hex_code_rgb": "#4682B4",
+   "decimal_code_rgb": "70,130,180"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "DodgerBlue",
+   "hex_code_rgb": "#1E90FF",
+   "decimal_code_rgb": "30,144,255"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "DeepSkyBlue",
+   "hex_code_rgb": "#00BFFF",
+   "decimal_code_rgb": "0,191,255"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "CornflowerBlue",
+   "hex_code_rgb": "#6495ED",
+   "decimal_code_rgb": "100,149,237"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "SkyBlue",
+   "hex_code_rgb": "#87CEEB",
+   "decimal_code_rgb": "135,206,235"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "LightSkyBlue",
+   "hex_code_rgb": "#87CEFA",
+   "decimal_code_rgb": "135,206,250"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "LightSteelBlue",
+   "hex_code_rgb": "#B0C4DE",
+   "decimal_code_rgb": "176,196,222"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "LightBlue",
+   "hex_code_rgb": "#ADD8E6",
+   "decimal_code_rgb": "173,216,230"
+ },
+ {
+   "main_color": "Blue Colors",
+   "html_css_color_name": "PowderBlue",
+   "hex_code_rgb": "#B0E0E6",
+   "decimal_code_rgb": "176,224,230"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Indigo",
+   "hex_code_rgb": "#4B0082",
+   "decimal_code_rgb": "75,0,130"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Purple",
+   "hex_code_rgb": "#800080",
+   "decimal_code_rgb": "128,0,128"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "DarkMagenta",
+   "hex_code_rgb": "#8B008B",
+   "decimal_code_rgb": "139,0,139"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "DarkViolet",
+   "hex_code_rgb": "#9400D3",
+   "decimal_code_rgb": "148,0,211"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "DarkSlateBlue",
+   "hex_code_rgb": "#483D8B",
+   "decimal_code_rgb": "72,61,139"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "BlueViolet",
+   "hex_code_rgb": "#8A2BE2",
+   "decimal_code_rgb": "138,43,226"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "DarkOrchid",
+   "hex_code_rgb": "#9932CC",
+   "decimal_code_rgb": "153,50,204"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "SlateBlue",
+   "hex_code_rgb": "#6A5ACD",
+   "decimal_code_rgb": "106,90,205"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "MediumSlateBlue",
+   "hex_code_rgb": "#7B68EE",
+   "decimal_code_rgb": "123,104,238"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "MediumOrchid",
+   "hex_code_rgb": "#BA55D3",
+   "decimal_code_rgb": "186,85,211"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "MediumPurple",
+   "hex_code_rgb": "#9370DB",
+   "decimal_code_rgb": "147,112,219"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Orchid",
+   "hex_code_rgb": "#DA70D6",
+   "decimal_code_rgb": "218,112,214"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Violet",
+   "hex_code_rgb": "#EE82EE",
+   "decimal_code_rgb": "238,130,238"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Plum",
+   "hex_code_rgb": "#DDA0DD",
+   "decimal_code_rgb": "221,160,221"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Thistle",
+   "hex_code_rgb": "#D8BFD8",
+   "decimal_code_rgb": "216,191,216"
+ },
+ {
+   "main_color": "Purple Colors",
+   "html_css_color_name": "Lavender",
+   "hex_code_rgb": "#E6E6FA",
+   "decimal_code_rgb": "230,230,250"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "MistyRose",
+   "hex_code_rgb": "#FFE4E1",
+   "decimal_code_rgb": "255,228,225"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "AntiqueWhite",
+   "hex_code_rgb": "#FAEBD7",
+   "decimal_code_rgb": "250,235,215"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Linen",
+   "hex_code_rgb": "#FAF0E6",
+   "decimal_code_rgb": "250,240,230"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Beige",
+   "hex_code_rgb": "#F5F5DC",
+   "decimal_code_rgb": "245,245,220"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "WhiteSmoke",
+   "hex_code_rgb": "#F5F5F5",
+   "decimal_code_rgb": "245,245,245"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "LavenderBlush",
+   "hex_code_rgb": "#FFF0F5",
+   "decimal_code_rgb": "255,240,245"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "OldLace",
+   "hex_code_rgb": "#FDF5E6",
+   "decimal_code_rgb": "253,245,230"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "AliceBlue",
+   "hex_code_rgb": "#F0F8FF",
+   "decimal_code_rgb": "240,248,255"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Seashell",
+   "hex_code_rgb": "#FFF5EE",
+   "decimal_code_rgb": "255,245,238"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "GhostWhite",
+   "hex_code_rgb": "#F8F8FF",
+   "decimal_code_rgb": "248,248,255"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Honeydew",
+   "hex_code_rgb": "#F0FFF0",
+   "decimal_code_rgb": "240,255,240"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "FloralWhite",
+   "hex_code_rgb": "#FFFAF0",
+   "decimal_code_rgb": "255,250,240"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Azure",
+   "hex_code_rgb": "#F0FFFF",
+   "decimal_code_rgb": "240,255,255"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "MintCream",
+   "hex_code_rgb": "#F5FFFA",
+   "decimal_code_rgb": "245,255,250"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Snow",
+   "hex_code_rgb": "#FFFAFA",
+   "decimal_code_rgb": "255,250,250"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "Ivory",
+   "hex_code_rgb": "#FFFFF0",
+   "decimal_code_rgb": "255,255,240"
+ },
+ {
+   "main_color": "White Colors",
+   "html_css_color_name": "White",
+   "hex_code_rgb": "#FFFFFF",
+   "decimal_code_rgb": "255,255,255"
+ },
+ {
+   "main_color": "Black Colors",
+   "html_css_color_name": "Black",
+   "hex_code_rgb": "#000000",
+   "decimal_code_rgb": "0,0,0"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "DarkSlateGray",
+   "hex_code_rgb": "#2F4F4F",
+   "decimal_code_rgb": "47,79,79"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "DimGray",
+   "hex_code_rgb": "#696969",
+   "decimal_code_rgb": "105,105,105"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "SlateGray",
+   "hex_code_rgb": "#708090",
+   "decimal_code_rgb": "112,128,144"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "Gray",
+   "hex_code_rgb": "#808080",
+   "decimal_code_rgb": "128,128,128"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "LightSlateGray",
+   "hex_code_rgb": "#778899",
+   "decimal_code_rgb": "119,136,153"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "DarkGray",
+   "hex_code_rgb": "#A9A9A9",
+   "decimal_code_rgb": "169,169,169"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "Silver",
+   "hex_code_rgb": "#C0C0C0",
+   "decimal_code_rgb": "192,192,192"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "LightGray",
+   "hex_code_rgb": "#D3D3D3",
+   "decimal_code_rgb": "211,211,211"
+ },
+ {
+   "main_color": "Gray Colors",
+   "html_css_color_name": "Gainsboro",
+   "hex_code_rgb": "#DCDCDC",
+   "decimal_code_rgb": "220,220,220"
+ }
+]
