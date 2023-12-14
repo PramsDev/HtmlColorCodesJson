@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Color Picker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #results {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>Color Picker</h1>
+
+    <label for="colorSearch">Search Color:</label>
+    <input type="text" id="colorSearch" oninput="searchColor(this.value)">
+	
+	<label for="colorPicker">Pick a Color:</label>
+    <input type="color" id="colorPicker" onchange="pickColor(this.value)">
+    
+    <div id="results"></div>
+
+    <script>
+    fetch('/HtmlColorCodesJson/HtmlColorCodes.json')
+        .then(response => response.json())
+        .then(data =>  {
+            window.colorData = data;  // This will make your json data globally available 
+        });
+    
+    function searchColor(query) {
+        let result = window.colorData.find(color => color.html_css_color_name.toLowerCase() === query.toLowerCase());
+        
+        if (result) {
+            displayColorInfo(result);
+        }
+    }
+	
+	function pickColor(hexCode) {
+        let result = window.colorData.find(color => color.hex_code_rgb.toLowerCase() === hexCode.toLowerCase());
+        
+        if (result) {
+            displayColorInfo(result);
+        }
+    }
+
+    function displayColorInfo(color) {
+        document.querySelector('#results').innerHTML = `
+            <p><strong>Name:</strong> ${color.html_css_color_name}</p>
+            <p><strong>Hex Code:</strong> ${color.hex_code_rgb}</p>
+            <p><strong>RGB:</strong> ${color.decimal_code_rgb}</p>
+        `;
+    }
+    </script>
+
+</body>
+</html>
